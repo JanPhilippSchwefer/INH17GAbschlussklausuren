@@ -4,33 +4,37 @@
 
 ### Python :large_orange_diamond:
 
-* Generelle Syntax :white_check_mark:
-* Collections :white_check_mark:
-* Klassen und Vererbung :white_check_mark:
-* Decorator :negative_squared_cross_mark:
-* Metaklassen :large_orange_diamond:
+* Generelle Syntax :ballot_box_with_check:
+* Collections :ballot_box_with_check:
+* Klassen und Vererbung :ballot_box_with_check:
+* Generators :ballot_box_with_check:
+* Doctests :negative_squared_cross_mark:
+* Decorator :ballot_box_with_check:
+* Metaklassen :ballot_box_with_check:
 
-### Künstliche Intelligenz :large_orange_diamond:
+### Künstliche Intelligenz :ballot_box_with_check:
 
-* Verfahren :white_check_mark:
-* Agenten :large_orange_diamond:
+* Allgemeine Informationen :ballot_box_with_check:
+* Agenten :ballot_box_with_check:
+* Endliche Automaten :ballot_box_with_check:
+* Behaviour Trees :ballot_box_with_check:
+* Neuronale Netzwerke :ballot_box_with_check:
 
-### XML :large_orange_diamond:
+### XML :ballot_box_with_check:
 
-* Generelles :white_check_mark:
-* SVG :white_check_mark:
-* SMIL :negative_squared_cross_mark:
-* Schema (XSD) :white_check_mark:
-* Schematron :white_check_mark:
-* Transformation (XSLT) :negative_squared_cross_mark:
-* DOM :negative_squared_cross_mark:
-* Document Type Definition (DTD) :negative_squared_cross_mark:
-* XPath, XLink, XQuery :negative_squared_cross_mark:
-* Ajax :negative_squared_cross_mark:
+* Generelles :ballot_box_with_check:
+* SVG :ballot_box_with_check:
+* SMIL :ballot_box_with_check:
+* Schema (XSD) :ballot_box_with_check:
+* Schematron :ballot_box_with_check:
+* Transformation (XSLT) :ballot_box_with_check:
+* Document Type Definition (DTD) :ballot_box_with_check:
+* XPath, XLink, XQuery :ballot_box_with_check:
+* Ajax :ballot_box_with_check:
 
-### Verschiedenes :white_check_mark:
+### Verschiedenes :ballot_box_with_check:
 
-* Vim :white_check_mark:
+* Vim :ballot_box_with_check:
 
 ## IAK und KIK :negative_squared_cross_mark:
 
